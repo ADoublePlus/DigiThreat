@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+DT_Level/Saved/Config/CrashReportClient/*
+DT_Level/Saved/Config/CrashReportClient/*
